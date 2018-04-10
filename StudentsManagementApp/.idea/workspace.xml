@@ -15,7 +15,7 @@
       <file leaf-file-name="AdminView.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/view/AdminView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
+            <state relative-caret-position="2380">
               <caret line="146" column="45" lean-forward="false" selection-start-line="146" selection-start-column="45" selection-end-line="146" selection-end-column="45" />
               <folding />
             </state>
@@ -25,8 +25,8 @@
       <file leaf-file-name="ExamView.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/view/ExamView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="167" column="36" lean-forward="true" selection-start-line="167" selection-start-column="36" selection-end-line="167" selection-end-column="36" />
+            <state relative-caret-position="2839">
+              <caret line="167" column="36" lean-forward="false" selection-start-line="167" selection-start-column="36" selection-end-line="167" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -44,12 +44,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ActivityView.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ActivityView.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/view/ActivityView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="136" column="51" lean-forward="true" selection-start-line="136" selection-start-column="51" selection-end-line="136" selection-end-column="51" />
+            <state relative-caret-position="759">
+              <caret line="136" column="51" lean-forward="false" selection-start-line="136" selection-start-column="51" selection-end-line="136" selection-end-column="51" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TablesRepository.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/repository/TablesRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+              <folding>
+                <marker date="1523378883875" expanded="true" signature="397:419" ph="Select * fro... students" />
+                <marker date="1523378883875" expanded="true" signature="908:930" ph="Select * fro... teachers" />
+                <marker date="1523378883875" expanded="true" signature="1420:1444" ph="Select * fro... activities" />
+                <marker date="1523378883875" expanded="true" signature="1953:2004" ph="Select * fro... activities" />
+                <marker date="1523378883875" expanded="true" signature="2575:2600" ph="Select * fro... enrollments" />
+                <marker date="1523378883875" expanded="true" signature="3085:3104" ph="Select * fro... exams" />
+                <marker date="1523378883875" expanded="true" signature="3591:3612" ph="Select * fro... courses" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -59,13 +77,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="476">
               <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-              <folding>
-                <marker date="1522934419900" expanded="true" signature="331:375" ph="INSERT INTO exams... " />
-                <marker date="1522934419900" expanded="true" signature="865:889" ph="DELETE FROM exams... " />
-                <marker date="1522934419900" expanded="true" signature="865:897" ph="DELETE FROM exams... " />
-                <marker date="1522934419900" expanded="true" signature="1331:1379" ph="Update exams... " />
-                <marker date="1522934419900" expanded="true" signature="1943:1988" ph="select idexa... exams" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -73,8 +85,8 @@
       <file leaf-file-name="StudentView.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/view/StudentView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+            <state relative-caret-position="782">
+              <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,8 +107,8 @@
       <file leaf-file-name="AccountView.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/view/AccountView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1207">
-              <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+            <state relative-caret-position="204">
+              <caret line="22" column="34" lean-forward="false" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -107,20 +119,8 @@
       <file leaf-file-name="GradeView.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/view/GradeView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
+            <state relative-caret-position="221">
               <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CourseView.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/view/CourseView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -257,8 +257,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -307,13 +305,15 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/Downloads/sd-assignment-1-DanilaVlad-master/sd-assignment-1-DanilaVlad-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -488,11 +488,12 @@
       <workItem from="1521908442465" duration="26391000" />
       <workItem from="1522327400580" duration="8318000" />
       <workItem from="1522867498340" duration="15063000" />
+      <workItem from="1523379861717" duration="644000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49772000" />
+    <option name="totallyTimeSpent" value="50416000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
@@ -500,20 +501,19 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1611877" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1611877" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1940615" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1940615" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15729167" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15520833" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16436903" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -526,6 +526,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" x="92" y="92" width="1736" height="856" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16436903" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -608,13 +609,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="986">
           <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-          <folding>
-            <marker date="1522934419900" expanded="true" signature="331:375" ph="INSERT INTO exams... " />
-            <marker date="1522934419900" expanded="true" signature="865:889" ph="DELETE FROM exams... " />
-            <marker date="1522934419900" expanded="true" signature="865:897" ph="DELETE FROM exams... " />
-            <marker date="1522934419900" expanded="true" signature="1331:1379" ph="Update exams... " />
-            <marker date="1522934419900" expanded="true" signature="1943:1988" ph="select idexa... exams" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -637,14 +632,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main.java" />
     <entry file="file://$PROJECT_DIR$/src/controller/AccountController.java" />
-    <entry file="jar://D:/Facultate/anul2 sem 2/ProgrammingTechniques/rs2xml.jar!/src/net/proteanit/sql/DbUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="26" column="67" lean-forward="true" selection-start-line="26" selection-start-column="67" selection-end-line="26" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://D:/Facultate/anul2 sem 2/ProgrammingTechniques/rs2xml.jar!/src/net/proteanit/sql/DbUtils.java" />
     <entry file="file://$PROJECT_DIR$/src/model/Course.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -784,13 +772,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="55" column="61" lean-forward="false" selection-start-line="55" selection-start-column="61" selection-end-line="55" selection-end-column="173" />
-          <folding>
-            <marker date="1522934420499" expanded="true" signature="405:534" ph="INSERT INTO client... " />
-            <marker date="1522934420499" expanded="true" signature="1397:1449" ph="DELETE FROM client... " />
-            <marker date="1522934420499" expanded="true" signature="1907:2019" ph="Update client... " />
-            <marker date="1522934420499" expanded="true" signature="2893:3014" ph="SELECT name,... " />
-            <marker date="1522934420499" expanded="true" signature="3681:3791" ph="SELECT `name... students" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -806,13 +788,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="101">
           <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-          <folding>
-            <marker date="1522934420647" expanded="true" signature="346:417" ph="INSERT INTO teachers... " />
-            <marker date="1522934420647" expanded="true" signature="1039:1076" ph="DELETE FROM teachers... " />
-            <marker date="1522934420647" expanded="true" signature="1523:1581" ph="Update teachers... " />
-            <marker date="1522934420647" expanded="true" signature="2197:2257" ph="select name,... teachers" />
-            <marker date="1522934420647" expanded="true" signature="2993:3055" ph="select name,... teachers" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -849,32 +825,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1343">
           <caret line="82" column="49" lean-forward="true" selection-start-line="82" selection-start-column="49" selection-end-line="82" selection-end-column="49" />
-          <folding>
-            <marker date="1522934420281" expanded="true" signature="353:432" ph="INSERT INTO activity... " />
-            <marker date="1522934420281" expanded="true" signature="1070:1113" ph="DELETE FROM activity... " />
-            <marker date="1522934420281" expanded="true" signature="1566:1655" ph="Update activity... " />
-            <marker date="1522934420281" expanded="true" signature="2381:2463" ph="Select Emplo... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/repository/TablesRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-239">
-          <caret line="73" column="115" lean-forward="false" selection-start-line="73" selection-start-column="64" selection-end-line="73" selection-end-column="115" />
-          <folding>
-            <marker date="1522934420389" expanded="true" signature="397:411" ph="Select * fro... account" />
-            <marker date="1522934420389" expanded="true" signature="397:419" ph="Select * fro... students" />
-            <marker date="1522934420389" expanded="true" signature="908:930" ph="Select * fro... teachers" />
-            <marker date="1522934420389" expanded="true" signature="1420:1434" ph="Select * fro... activity" />
-            <marker date="1522934420389" expanded="true" signature="1420:1444" ph="Select * fro... activities" />
-            <marker date="1522934420389" expanded="true" signature="1953:2004" ph="Select * fro... activity" />
-            <marker date="1522934420389" expanded="true" signature="2575:2589" ph="Select * fro... client" />
-            <marker date="1522934420389" expanded="true" signature="2575:2600" ph="Select * fro... enrollments" />
-            <marker date="1522934420389" expanded="true" signature="3085:3099" ph="Select emplo... employee" />
-            <marker date="1522934420389" expanded="true" signature="3085:3104" ph="Select * fro... exams" />
-            <marker date="1522934420389" expanded="true" signature="3591:3612" ph="Select * fro... courses" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -890,12 +841,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-614">
           <caret line="15" column="50" lean-forward="true" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-          <folding>
-            <marker date="1522934420689" expanded="true" signature="341:404" ph="INSERT INTO courses... " />
-            <marker date="1522934420689" expanded="true" signature="959:995" ph="DELETE FROM courses... " />
-            <marker date="1522934420689" expanded="true" signature="1437:1506" ph="Update courses... " />
-            <marker date="1522934420689" expanded="true" signature="2147:2211" ph="SELECT idcou... courses" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -921,17 +867,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <marker date="1522934419785" expanded="true" signature="361:447" ph="INSERT INTO enrollments... " />
-            <marker date="1522934419785" expanded="true" signature="1087:1131" ph="DELETE FROM enrollments... " />
-            <marker date="1522934419785" expanded="true" signature="1592:1688" ph="Update enrollments... " />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/view/CourseView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="646">
           <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -943,19 +885,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding>
-            <marker date="1522934419900" expanded="true" signature="331:375" ph="INSERT INTO exams... " />
-            <marker date="1522934419900" expanded="true" signature="865:889" ph="DELETE FROM exams... " />
-            <marker date="1522934419900" expanded="true" signature="865:897" ph="DELETE FROM exams... " />
-            <marker date="1522934419900" expanded="true" signature="1331:1379" ph="Update exams... " />
-            <marker date="1522934419900" expanded="true" signature="1943:1988" ph="select idexa... exams" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/view/AdminView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
+        <state relative-caret-position="2380">
           <caret line="146" column="45" lean-forward="false" selection-start-line="146" selection-start-column="45" selection-end-line="146" selection-end-column="45" />
           <folding />
         </state>
@@ -963,8 +899,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/view/ExamView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="167" column="36" lean-forward="true" selection-start-line="167" selection-start-column="36" selection-end-line="167" selection-end-column="36" />
+        <state relative-caret-position="2839">
+          <caret line="167" column="36" lean-forward="false" selection-start-line="167" selection-start-column="36" selection-end-line="167" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -981,7 +917,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/view/GradeView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
+        <state relative-caret-position="221">
           <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -999,8 +935,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/view/StudentView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+        <state relative-caret-position="782">
+          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1009,8 +945,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/view/AccountView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1207">
-          <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        <state relative-caret-position="204">
+          <caret line="22" column="34" lean-forward="false" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1019,9 +955,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/view/ActivityView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="136" column="51" lean-forward="true" selection-start-line="136" selection-start-column="51" selection-end-line="136" selection-end-column="51" />
+        <state relative-caret-position="759">
+          <caret line="136" column="51" lean-forward="false" selection-start-line="136" selection-start-column="51" selection-end-line="136" selection-end-column="51" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/repository/TablesRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <marker date="1523378883875" expanded="true" signature="397:419" ph="Select * fro... students" />
+            <marker date="1523378883875" expanded="true" signature="908:930" ph="Select * fro... teachers" />
+            <marker date="1523378883875" expanded="true" signature="1420:1444" ph="Select * fro... activities" />
+            <marker date="1523378883875" expanded="true" signature="1953:2004" ph="Select * fro... activities" />
+            <marker date="1523378883875" expanded="true" signature="2575:2600" ph="Select * fro... enrollments" />
+            <marker date="1523378883875" expanded="true" signature="3085:3104" ph="Select * fro... exams" />
+            <marker date="1523378883875" expanded="true" signature="3591:3612" ph="Select * fro... courses" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1077,11 +1029,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>BANK</last-edited>
+          <last-edited>StudentManagementApp</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
